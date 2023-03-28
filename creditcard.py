@@ -17,6 +17,8 @@ the computational efficiency of testing at the expense of more time training
 The randomly generated testing data should be about half fraud and half legitimate
 While the data set contains only 0.17% fraud
 
+The dataset code not fit into github but can be downloaded at https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 '''
 
 
